@@ -9,6 +9,7 @@ Closes #(número de issue)
 - [ ] Bug fix
 - [ ] Refactor
 - [ ] Documentación
+- [ ] Tarea
 
 ## Checklist
 - [ ] El código fue probado localmente
