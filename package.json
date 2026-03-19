@@ -1,0 +1,8 @@
+{
+  "name": "gym-saas",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
